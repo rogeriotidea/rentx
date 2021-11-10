@@ -1,6 +1,7 @@
 import styled from 'styled-components/native';
 import { BorderlessButton } from 'react-native-gesture-handler';
 
+
 export const Container = styled(BorderlessButton)`
-  flex: 1;
+  height: 30px;
 `;
